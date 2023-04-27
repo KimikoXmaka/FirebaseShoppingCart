@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57315430014",
+    "project_id": "shoppingcartfirebase-2a34d",
+    "storage_bucket": "shoppingcartfirebase-2a34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57315430014:android:1cd2a39db1c134098d122f",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcartfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57315430014-h0gonsagqp0pskjm0i45s8a6333mtpd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgGc6OVsimxIK3jCzYkohQCLw_-zZq2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57315430014-h0gonsagqp0pskjm0i45s8a6333mtpd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
